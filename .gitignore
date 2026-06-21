@@ -21,7 +21,6 @@ chroma_db/
 *.pkl
 
 # Models
-models/
 hf_cache/
 huggingface_cache/
 
