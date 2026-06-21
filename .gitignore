@@ -1,0 +1,30 @@
+# Python
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Chroma
+chroma_db/
+
+# FAISS
+*.faiss
+*.pkl
+
+# Models
+models/
+hf_cache/
+huggingface_cache/
+
+# OS
+.DS_Store
+Thumbs.db
